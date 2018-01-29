@@ -1,21 +1,6 @@
 # TinyClient
 
-**TODO: Add description**
+## About
 
-## Installation
-
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `tinyclient` to your list of dependencies in `mix.exs`:
-
-```elixir
-def deps do
-  [
-    {:tinyclient, "~> 0.1.0"}
-  ]
-end
-```
-
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/tinyclient](https://hexdocs.pm/tinyclient).
-
+This is just a project to practice transcoding Erlang to Elixir and write a
+tiny http client.
